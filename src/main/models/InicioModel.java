@@ -1,5 +1,5 @@
 package main.models;
 
-public class UsuarioModel {
+public class InicioModel {
     
 }
